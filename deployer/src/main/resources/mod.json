@@ -1,0 +1,4 @@
+{
+  "main": "io.vertx.nscavell.deployer.DeployerVerticle",
+  "auto-redeploy": true
+}
